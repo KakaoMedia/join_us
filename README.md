@@ -1,4 +1,4 @@
-Unete a Kakao Media
+Únete a Kakao Media
 ===================
 Somos un equipo de diseñadores y desarrolladores que trabajamos juntos en crear experiencias digitales que mejoren las vidas de quienes las usan. 
 
